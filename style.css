@@ -20,8 +20,8 @@ h3{
     color: orange;
 }
 p{
-    margin-bottom: 5%;
-    margin-top: 5%;
+    margin-bottom: 7%;
+    margin-top: 7%;
 }
 
 .link-button{
@@ -42,7 +42,7 @@ section{
     padding-right: 10%;
 }
 .half-width img{
-    width: 70%;
+    width: 90%;
 }
 #vertical-line{
     border-left: 5px solid;
@@ -91,12 +91,7 @@ section{
     margin-left: 10%;
     margin-right: 10%;
 }
-.area-balance{
-    width: 50%;
-}
-.area-balance img{
-    width: 80%;
-}
+
 footer{
     text-align: center;
     padding: 10px 40px;
