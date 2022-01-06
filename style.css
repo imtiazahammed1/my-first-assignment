@@ -12,6 +12,10 @@ h2{
     text-align: center;
     margin-bottom: 5%;
 }
+h3{
+    font-size: 35px;
+    font-weight: 700;
+}
 .orange-color{
     color: orange;
 }
@@ -35,7 +39,7 @@ section{
 }
 .half-width{
     width: 50%;
-    padding-left: 10%;
+    padding-right: 10%;
 }
 .half-width img{
     width: 70%;
@@ -49,6 +53,12 @@ section{
 }
 .blue-color{
     color: blue;
+}
+.white-color{
+    color: white;
+}
+.yellow-color{
+    color: yellow;
 }
 .mis-vis-gol-item{
     width: 30%;
@@ -73,8 +83,21 @@ section{
     background-color: rgb(252, 243, 167);
 
 }
-#margin-set{
+#fourth-background-color{
+    background-color: indigo;
+    
+}
+.margin-set{
     margin-left: 10%;
     margin-right: 10%;
 }
-
+.area-balance{
+    width: 50%;
+}
+.area-balance img{
+    width: 80%;
+}
+footer{
+    text-align: center;
+    padding: 10px 40px;
+}
